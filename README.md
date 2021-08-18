@@ -2,6 +2,8 @@
 
 [GalleryThemeSelectorBehavior](https://docs.devexpress.com/WPF/DevExpress.Xpf.Bars.GalleryThemeSelectorBehavior) automatically populates the associated [GalleryControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Bars.GalleryControl) with all available themes and allows you to choose a theme applied to your application.
 
+<img width="590" alt="GalleryThemeSelectorBehavior_HZYtESplP2" src="https://user-images.githubusercontent.com/12169834/129886501-469218c1-56ce-49ab-a37c-e84d8642e91d.png">
+
 Refer to the [MainWindow.xaml](https://github.com/DevExpress-Examples/how-to-implement-a-theme-selector-based-on-a-gallery/blob/19.2.12%2B/CS/GalleryThemeSelectorBehavior/MainWindow.xaml) (VB: [MainWindow.xaml](https://github.com/DevExpress-Examples/how-to-implement-a-theme-selector-based-on-a-gallery/blob/19.2.12%2B/VB/GalleryThemeSelectorBehavior/MainWindow.xaml)) file to get the code sample that displays a GalleryControl with a theme selector.
 
 ## Hide a Theme from a Theme Selector
