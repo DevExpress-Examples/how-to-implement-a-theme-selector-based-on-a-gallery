@@ -27,7 +27,7 @@ You can use the behavior's inherited [Theme.ShowInThemeSelector](https://docs.de
 ## Files to Look At
 
 * [MainWindow.xaml](./CS/GalleryThemeSelectorBehavior/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GalleryThemeSelectorBehavior/MainWindow.xaml))
-* [App.xaml.cs](./CS/GalleryThemeSelectorBehavior/App.xaml.cs) (VB: [Application.xaml.vb](./VB/GalleryThemeSelectorBehavior/Application.xaml.vb))
+* [App.xaml.cs](./CS/GalleryThemeSelectorBehavior/App.xaml.cs) (VB: [App.xaml.vb](./VB/GalleryThemeSelectorBehavior/App.xaml.vb))
 <!-- default file list end -->
 ## Documentation
 
